@@ -27,4 +27,4 @@ print(5**2)
 #12)Voiteðonoks Aleksandrs
 
 #13)Zvaigzne Gustavs Henrijs
-
+print(4*(2**2))
